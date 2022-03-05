@@ -1,1 +1,1 @@
-shell basics directory readme
+root directory readme
